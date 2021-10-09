@@ -2,6 +2,7 @@
 ## Prerequisites
 - Python 3.8
 - Tensorflow 2.5.0
+- tensorflow_hub
 - bert-tensorflow
 - transformers
 - Before running the model make sure that you have installed the above requirements.
